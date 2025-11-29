@@ -1,2 +1,2 @@
-# Python-Calculator-
-Caluctaor losic usning python
+# Python--
+ losic usning python
